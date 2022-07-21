@@ -37,3 +37,21 @@ $ minikube version
 ~~~
 $ minikube start --driver=none
 ~~~
+
+
+
+
+### Kube config
+
+~~~ bash
+$ kubectl --kubeconfig=/<pathtodirectory>/my-cluster-kubeconfig.yaml get nodes
+~~~
+
+* Set&Get cluster
+~~~
+$ kubectl config set-cluster
+$ kubectl config get-cluster
+$ kubectl config get-context
+~~~
+
+

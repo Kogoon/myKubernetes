@@ -1,7 +1,7 @@
 # myKubernetes
 ## Kubernetes
 
-* [Prometheus&Grafana](https://github.com/Kogoon/myKubernetes/tree/main/220809)
+* [Prometheus&Grafana](https://github.com/Kogoon/myKubernetes/tree/main/monitoring)
 
 ## Minikube
 `Single Node` -> Master Node + Worker Node
